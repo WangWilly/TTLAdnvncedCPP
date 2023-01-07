@@ -1,4 +1,4 @@
-# TTLAdnvncedCPP (Notesheet draft)
+# Time to learn adnvnced CPP (notesheet draft)
 Aim to a build comprehensive c++ project template (on Linux environment). Then, learn advanced c++ skills and try to implement it in real situation.
 
 **Overview**
